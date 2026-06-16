@@ -44,4 +44,4 @@ Output: torch.Size([1, 1, 288, 288])
 
 If you use this implementation, please cite:
 
-[K.A.C. N'GORAN et~al.]
+[K.A.C. N'GORAN et al.]
