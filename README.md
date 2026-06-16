@@ -42,6 +42,11 @@ Output: torch.Size([1, 1, 288, 288])
 
 ## Citation
 
-If you use this implementation, please cite:
+If you use this code, please cite:
 
-[K.A.C. N'GORAN et al.]
+```bibtex
+@article{MASKNET2025,
+  title={Mask-Net: Cloud Masking for Sea Surface Temperature Imagery Using Spatial and Channel Attention},
+  author={Kouassi Adelphe Christian N’GORAN, XXX},
+  year={2025}
+}
