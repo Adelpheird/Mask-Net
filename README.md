@@ -45,8 +45,8 @@ Output: torch.Size([1, 1, 288, 288])
 If you use this code, please cite:
 
 ```bibtex
-@article{MASKNET2025,
+@article{MASKNET2026,
   title={Mask-Net: Cloud Masking for Sea Surface Temperature Imagery Using Spatial and Channel Attention},
   author={Kouassi Adelphe Christian N’GORAN, XXX},
-  year={2025}
+  year={2026}
 }
