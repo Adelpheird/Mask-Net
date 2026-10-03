@@ -150,7 +150,7 @@ corresponding author upon reasonable request (see the paper's
 If you use this code or the dataset, please cite:
 
 ```bibtex
-@article{ngoran_masknet_2026,
+@article{NGORAN2026100271,
   title   = {Mask-Net: A U-Net Architecture with Spatial and Channel
              Attention Mechanisms for Improved Cloud Detection in
              Sea Surface Temperature Imagery},
@@ -160,7 +160,13 @@ If you use this code or the dataset, please cite:
              Cauquil, Pascal and
              Loum, Georges Laussane},
   journal = {Artificial Intelligence in Geosciences},
+  volume  = {7},
+  number  = {4},
+  pages   = {100271},
   year    = {2026},
+  issn    = {2666-5441},
+  doi     = {10.1016/j.aiig.2026.100271},
+  url     = {https://www.sciencedirect.com/science/article/pii/S2666544126000870}
 }
 ```
 
